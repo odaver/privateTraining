@@ -4,13 +4,25 @@
     max-width: 75%;
     width: 75%;
     text-align: justify;
+    vertical-align: top;
 }
 
 .menuButton {
     border: 2px black;
     width: 15%;
     height: 30px;
-    text-align: center;
+    text-align: left;
     padding: 0;
     max-height: 30px;
+    vertical-align: top;
+    background-color: rgb(169, 193, 238);
+}
+
+.logoText {
+    text-align: left;
+}
+
+.logoImg {
+    box-shadow: cornflowerblue;
+    width: 200px;
 }
